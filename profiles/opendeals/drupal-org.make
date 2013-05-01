@@ -1,0 +1,30 @@
+; Drupal.org release file.
+core = 7.22
+api = 2
+core = 7.x
+
+projects[addressfield] = 1.0-beta3
+projects[admin_menu] = 3.0-rc4
+projects[admin_path] = 1.0
+projects[commerce] = 1.5
+projects[commerce_google_analytics] = 1.0
+projects[ctools] = 1.3
+projects[date] = 2.6
+projects[defaultcontent] = 1.0-alpha9
+projects[diff] = 2.0
+projects[entity] = 1.0
+projects[features] = 1.0
+projects[google_analytics] = 1.3
+projects[jstimer] = 1.3
+projects[module_filter] = 1.7
+projects[pathauto] = 1.2
+projects[pathologic] = 2.10
+projects[references] = 2.1
+projects[rules] = 2.3
+projects[stringoverrides] = 1.8
+projects[strongarm] = 2.0
+projects[token] = 1.5
+projects[views] = 3.6
+projects[webform] = 3.18
+projects[wysiwyg] = 2.2
+projects[xmlsitemap] = 2.0-rc2
